@@ -29,3 +29,22 @@
 
 ## 免責聲明
 * 本模組僅供愛好者交流與學習使用，所有文本版權歸遊戲開發商所有。
+
+---
+
+## 其它
+* 若不喜歡全螢幕可以至AppData\Local\Risen的Window中加入FullScreen="false"來將遊戲視窗化
+
+```
+		<Window
+			AdapterNumber="0"
+			Bottom="1440"
+			FOV="60.000000"
+			FullScreen="false"
+			Left="0"
+			RefreshRate="60"
+			Right="2560"
+			Top="0"
+			Vsync="false"
+		>
+```
