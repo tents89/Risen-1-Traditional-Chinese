@@ -7,7 +7,7 @@
 ---
 
 ## 模組特點
-* **文本**：文本來源取自 **3DM 2.0版中文化**。
+* **文本**：取自 **3DM 2.0版中文化**。
 * **修正**：針對繁簡轉換錯誤進行修正。
 * **相容最新版本**：適配 **Steam 2023 年更新後** 的遊戲版本（GOG 版本未測試）。
 
@@ -22,8 +22,8 @@
 
 ## 致謝(Credit)
 
-* **DLL 修正**：感謝 [适用于更新后崛起1的Steam最新版汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=3732711224) 
-* **腳本**：封包與文本處理腳本參考自開源專案 [GitHub - hhergeth/RisenEditor](https://github.com/hhergeth/RisenEditor)
+* **DLL 修正**：來自 [适用于更新后崛起1的Steam最新版汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=3732711224) 
+* **腳本**：封包與文本處理腳本參考自 [GitHub - hhergeth/RisenEditor](https://github.com/hhergeth/RisenEditor)
 
 ---
 
@@ -33,8 +33,7 @@
 ---
 
 ## 其它
-* 若不喜歡全螢幕可以至AppData\Local\Risen的ConfigUser.xml以記事本開啟
-並在Window中加入FullScreen="false"來將遊戲視窗化
+* 若不喜歡全螢幕可以至AppData\Local\Risen修改ConfigUser.xml，只要在Window中加入FullScreen="false"就可以將遊戲視窗化，但桌面鼠標不會消失。
 
 ```
 		<Window
