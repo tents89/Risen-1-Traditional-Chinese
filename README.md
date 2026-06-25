@@ -43,7 +43,7 @@
 ### Risen 1 相關
 * **DLL 修正**：取自 [适用于更新后崛起1的Steam最新版汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=3732711224) 。
 
-[!NOTE]因為不確定GOG是否可用，因此若DLL放入後無法開啟，請用十六進制編輯器(如:HxD)去編輯該dll
+[!NOTE]因為不確定GOG是否可用，因此若DLL放入後無法開啟，請用十六進制編輯器(如:HxD)去編輯原始dll
 > 記憶體位置 `00527940`
 > 原始 02 00 00 00 EB 03 48 8B D9 BA 00 01 00 00 48 8B
 > 修正 02 00 00 00 EB 03 48 8B D9 BA 00 08 00 00 48 8B
